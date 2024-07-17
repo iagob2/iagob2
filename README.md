@@ -6,7 +6,7 @@
 
 ### olá, seja bem-vindo 👋
 
-- 🌱 Estudando Pytho,JAVA,PHP,SQL,C++ 
+- 🌱 EstudandoPython,JavaScript,JAVA,PHP,SQL,C++ 
 - 👯 Estou procurando estágio ...
 - 🤔 Estou buscando aprender mais...
 
