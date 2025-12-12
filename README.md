@@ -3,29 +3,26 @@ Olá! Sou Iago Correia de Lima, tenho 26 anos e sou de Praia Grande, SP. Sou apa
 
 ---
 
-### 👋 Seja bem-vindo(a) ao meu perfil!
+## 👋 Seja bem-vindo(a) ao meu perfil!
 
 - 🌱 Estudando **Python**, **JavaScript**, **Java**, **PHP**, **SQL**, **C++**
-- 💼 Buscando uma oportunidade de **estágio ou vaga júnior**
+- 💼 Buscando uma oportunidade de **vaga de trabalho**
 - 🔍 Em constante aprendizado com foco em **desenvolvimento web, mobile e automação**
 - 🚀 Comprometido com a melhoria contínua e desenvolvimento full stack
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Habilidades Técnicas
 
-![HTML5](https://img.shields.io/badge/HTML5-1A3953?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1A3953?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A3953?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1A3953?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1A3953?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1A3953?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-1A3953?style=for-the-badge&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1A3953?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A3953?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1A3953?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1A3953?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1A3953?style=for-the-badge&logo=figma&logoColor=white)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, JavaScript, Java, Kotlin |
+| **Frameworks/Web** | Django, Node.js, Express.js, HTML5, CSS3, React, Flask |
+| **Mobile** | Kotlin para Android (RecyclerView, Intents, ViewModel) |
+| **Cloud/DevOps** | AWS (EC2, S3, RDS, Lambda), Docker, Git, Jenkins |
+| **Banco de Dados** | MySQL, MongoDB, Neo4j (Grafos) |
+| **QA** | Testes unitários com JUnit 5 |
+
 
 ---
 
@@ -47,10 +44,16 @@ Olá! Sou Iago Correia de Lima, tenho 26 anos e sou de Praia Grande, SP. Sou apa
 Atuar como **desenvolvedor de software** com foco em **automação e criação de APIs**, contribuindo com projetos inovadores e otimizando processos através da tecnologia. Busco aplicar meus conhecimentos em ambientes colaborativos que valorizem o crescimento e a inovação.
 
 ---
-
 ## 🧠 Sobre Mim
 
-Atualmente estou no 5º ciclo do curso de **Desenvolvimento de Software Multiplataforma** na FATEC Praia Grande. Tenho experiência prática com **desenvolvimento web, mobile e APIs**, aplicando linguagens como **Python, JavaScript, Java, PHP e C++**, além de tecnologias como **HTML, CSS, Django, React e Kotlin**.
+Sou **Profissional Formado** em **Desenvolvimento de Software Multiplataforma** (Fatec Praia Grande), com experiência prática em **desenvolvimento web, APIs e soluções multiplataforma**.
+
+Minha experiência inclui:
+* **Linguagens de Domínio:** Python, Java, JavaScript, Node.js e Kotlin.
+* **Tecnologias-Chave:** AWS (EC2, S3, RDS, Lambda), Docker, Git, Django, React, Express.js e testes unitários com JUnit.
+* **Áreas de Atuação:** Desenvolvimento Front-end, Back-end (APIs), Mobile (Kotlin/Android) e Machine Learning (Python/Pandas).
+
+Tenho perfil **proativo, organizado e orientado à resolução de problemas**, com foco em criar soluções acessíveis e eficientes, como no **Sistema de Gestão de Documentos (USAFAs)**, onde otimizei a gestão documental, eliminando a redundância de processos e garantindo a atualização de dados em tempo real.
 
 Alguns projetos de destaque incluem:
 
@@ -65,23 +68,28 @@ Durante esses projetos, otimizei fluxos de trabalho e entreguei soluções acess
 
 ## 📂 Projetos em Destaque
 
-- 🩺 **[Sistema de Documentação USAFAs](https://github.com/iagob2/Usafa_system)**  
-  Sistema para gestão de documentos em unidades de saúde, reduzindo retrabalho e aumentando a precisão dos dados.
-  
-- 📘 **[E-book Python: A Lenda dos Guardiões](https://github.com/iagob2/python-lenda-dos-guardioes)**  
-  Material didático com abordagem gamificada para ensinar lógica e Python para iniciantes.
+### 📚 Portfólio - Desenvolvimento de Software Multiplataforma
+* **[Repositório Central (Fatec PG)](https://github.com/iagob2/Portifolio-FatecPg)**
+  Este repositório é o núcleo dos meus projetos acadêmicos e pessoais. Ele reúne todos os exercícios, atividades e projetos desenvolvidos ao longo do curso de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Praia Grande, demonstrando uma vasta aplicação de tecnologias Full Stack.
 
-- 📱 **[Menu Digital para Pizzaria (React)](https://github.com/iagob2/Pizzaria-App)**  
-  Solução para digitalização de pedidos em pizzarias, com foco em agilidade e gestão.
+### 🍕 Projeto Saborê (Ecossistema Gastronômico Multiplataforma)
+Conjunto de aplicações para gestão de um restaurante (Saborê), demonstrando habilidades Full Stack e integração de sistemas:
+* **[Saborê Admin (Desktop)](https://github.com/iagob2/SGR-Desktop)** * Aplicação desktop (Electron/Python Flask) para gestão de vendas, pedidos em tempo real e painel administrativo.
+* **[Saborê - Plataforma Digital Gastronômica](https://github.com/iagob2/sabore)** * Plataforma digital para conectar restaurantes e clientes (marketplace).
+* **[Backend Restaurante (APIs)](https://github.com/iagob2/backend-restaurante)** * Desenvolvimento do backend com APIs para manipulação e consulta de dados.
+* **[Cozinha Saborê (Web)](https://github.com/iagob2/cozinha-sabore)**
+    * Sistema web para gestão do fluxo de pedidos na cozinha.
 
-- 🐍 **[Desafios Curso em Vídeo - Python](https://github.com/iagob2/lista_de_desafios_python)**  
-  Exercícios resolvidos com base nas aulas do professor Gustavo Guanabara.
+### 🩺 Sistema de Gestão de Documentos (USAFAs)
+* **[Sistema de Documentação USAFAs](https://github.com/iagob2/USAFAs)** Sistema web (HTML, CSS, Python/Django) para otimização da gestão de documentos, focado em resolver a perda de documentos e o retrabalho em cadastros.
 
-- 🧾 **[E-commerce em PHP Puro](https://github.com/iagob2/Ecommerce_teste_php)**  
-  Aplicação sem frameworks, utilizando boas práticas e foco em segurança.
+### 🤖 Projeto de Data Mining: Predição de Crédito
+* Criação de algoritmo de **Machine Learning (Python/Pandas)** para classificar "bons e maus pagadores", auxiliando na tomada de decisões financeiras.
 
-- 💇 **[Salões de Beleza (Agendamento)](https://github.com/iagob2/Saloes-de-Beleza)**  
-  App Android para agendamento de serviços, com autenticação via Firebase e Firestore.
+### 🌐 Outros Projetos Relevantes
+* **[Desenvolvimento de APIs (Node.js/Kotlin)](https://github.com/iagob2/iagob2/tree/main/criação-de-api-node.js)** * Construção de APIs REST em Node.js (ex: retorna fatos históricos) e uso de Kotlin para consulta a APIs externas (ex: consulta de CEP).
+* **[Desenvolvedor Android](https://github.com/iagob2/Saloes-de-Beleza)** * Criação de aplicativos Android com login, cadastro e exibição dinâmica de dados usando RecyclerView.
+* **[Desenvolvimento Web (Aplicações Específicas)](https://github.com/iagob2/Ecommerce_teste_php)** * Inclui e-commerce em PHP puro e outros projetos web que demonstram domínio de Django e HTML/CSS.
 
 ---
 
